@@ -1,0 +1,8 @@
+Django==1.9.7
+django-filter==0.13.0
+django-rest-swagger==0.3.8
+djangorestframework==3.3.3
+Markdown==2.6.6
+mysql==0.0.1
+MySQL-python==1.2.5
+PyYAML==3.11
